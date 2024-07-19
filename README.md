@@ -5,9 +5,11 @@
 I'm an enthusiastic undergraduate student at IIIT Bhopal with a passion for coding, exploring new technologies, and spending time in nature. Here's a bit more about me:
 
 ## 💼 **Skills**
-- **Languages**: `C++` 🖥️, `C` 📟, `Dart` 🚀
-- **Frameworks**: `Flutter` 📱, `REST APIs` 🌐
-- **Tools**: `Git` 🛠️, `GitHub` 🐙, `VS Code` 🖋️
+- **Technical Skills**:`C++` 🖥️, `C` 📟, `Dart` 🚀, `Python` 🐍, `HTML` 🌐
+- **Technologies**: `Flutter` 📱, `REST APIs` 🌐, `Git` 🛠️, `GitHub` 🐙
+- **Tools**: `Andriod Studio`,`Visual Studio Code` 🖋️
+- **Databases** `SQL`,`Firebase`,`Cloud Firestore`
+  
 
 ## 💬 **Ask Me About**
 - Nature and outdoor activities 🌳
