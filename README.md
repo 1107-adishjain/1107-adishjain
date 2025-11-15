@@ -5,10 +5,10 @@ I'm an enthusiastic undergraduate student at IIIT Bhopal with a passion for codi
 
 Tech skills: <br>
 C, C++, Python, Golang, Dart, YAML, Groovy, HTML, SQL<br>
-Tools: Docker, Kubernetes, Terraform, Ansible, Git, MySQL, Jenkins, VS-Code<br>
+Tools: Docker, Kubernetes, Terraform, Ansible, Git, MySQL, Jenkins,Prometheus,Grafana<br>
 Technologies: Flutter SDK, Rest API, GitHub, Firebase, Cloud Firestore<br>
 Platforms: Linux, Unix, Amazon Web Services (AWS), PostgreSQL<br>
-Coding Profiles: CodeChef 1500+, LeetCode-1600+<br><br>
+Coding Profiles: CodeChef 1600+, LeetCode-1720+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adish-jain-745b26280/) 
