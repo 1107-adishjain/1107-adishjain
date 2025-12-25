@@ -53,9 +53,14 @@ Coding Profiles: CodeChef 1600+, LeetCode-1750+<br><br>
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=1107-adishjain&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=1107-adishjain&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1107-adishjain&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=1107-adishjain&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&v=1)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=1107-adishjain&theme=shadow_blue&hide_border=true&v=1)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=1107-adishjain&theme=shadow_blue&hide_border=true&layout=compact&count_private=true&v=1)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=1107-adishjain&icon=0&color=0)](https://visitcount.itsvg.in)
+
