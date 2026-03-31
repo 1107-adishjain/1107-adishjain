@@ -4,10 +4,11 @@ Pre-final year Student at IIIT Bhopal<br>
 I'm an enthusiastic undergraduate student at IIIT Bhopal with a passion for coding, exploring new technologies, and spending time in nature.<br><br>
 
 Tech skills: <br>
-C, C++, Python, Golang, Dart, YAML, Groovy, HTML, SQL<br>
-Tools: Docker, Kubernetes, Terraform, Ansible, Git, MySQL, Jenkins,Prometheus,Grafana<br>
-Technologies: Flutter SDK, Rest API, GitHub, Firebase, Cloud Firestore<br>
-Platforms: Linux, Unix, Amazon Web Services (AWS), PostgreSQL<br>
+Languages: C, C++, Golang, Python, Dart, SQL, Groovy, HTML, YAML<br>
+DevOps & Infra: Docker, Kubernetes, Terraform, Ansible, Jenkins, Nginx, Git, GitHub Actions<br>
+Cloud & Databases: AWS, PostgreSQL, MySQL, Firebase, Cloud Firestore, Linux, Unix, Redis, MongoDB<br>
+Monitoring: Prometheus, Grafana, Loki<br>
+Technologies: Flutter SDK, REST API<br>
 Coding Profiles: CodeChef 1650+(3💫), LeetCode-1880+(Knight)<br><br>
 
 ## 🌐 Socials:
