@@ -9,7 +9,7 @@ DevOps & Infra: Docker, Kubernetes, Terraform, Ansible, Jenkins, Nginx, Git, Git
 Cloud & Databases: AWS, PostgreSQL, MySQL, Firebase, Cloud Firestore, Linux, Unix, Redis, MongoDB<br>
 Monitoring: Prometheus, Grafana, Loki<br>
 Technologies: Flutter SDK, REST API<br>
-Coding Profiles: CodeChef 1650+(3💫), LeetCode-1880+(Knight)<br><br>
+Coding Profiles: CodeChef 1650+(3💫), LeetCode-1900+(Knight)<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adish-jain-745b26280/) 
