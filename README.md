@@ -8,7 +8,7 @@ Languages: C, C++, Golang, Python, Dart, SQL, Groovy, HTML, YAML<br>
 DevOps & Infra: Docker, Kubernetes, Terraform, Ansible, Jenkins, Nginx, Git, GitHub Actions<br>
 Cloud & Databases: AWS, PostgreSQL, MySQL, Firebase, Cloud Firestore, Linux, Unix, Redis, MongoDB<br>
 Monitoring: Prometheus, Grafana, Loki<br>
-Technologies: Flutter SDK, REST API<br>
+Technologies: Flutter SDK, REST API, WebSocket <br>
 Coding Profiles: CodeChef 1650+(3💫), LeetCode-1900+(Knight)<br><br>
 
 ## 🌐 Socials:
