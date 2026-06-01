@@ -1,13 +1,13 @@
 # 💫 About Me:
-Hi, I'm **Adish Jain** 👋<br><br>
+Hi, I'm **Adish Jain** 👋<br>
 
-I'm a **Final-Year CSE Student** at **IIIT Bhopal** with an interest in **Software Development**, **Backend Systems**, **DevOps**, **Cloud-Native Technologies**, and **Low-Level Security**.<br><br>
+I'm a **Final-Year CSE Student** at **IIIT Bhopal** with an interest in **Software Development**, **Backend Systems**, **DevOps**, **Cloud-Native Technologies**, and **Low-Level Security**.<br>
 
-I enjoy building projects from scratch, experimenting with new technologies, and understanding how applications are developed, deployed, and maintained in real-world environments. Over time, I've worked with technologies across **Backend Development**, **Cloud Platforms**, **DevOps Tools**, **Databases**, **Containerization**, **Linux**, and kernel security concepts such as **eBPF** and **LSMs**, along with **Flutter Development**.<br><br>
+I enjoy building projects from scratch, experimenting with new technologies, and understanding how applications are developed, deployed, and maintained in real-world environments. Over time, I've worked with technologies across **Backend Development**, **Cloud Platforms**, **DevOps Tools**, **Databases**, **Containerization**, **Linux**, and kernel security concepts such as **eBPF** and **LSMs**, along with **Flutter Development**.<br>
 
-I'm always looking for opportunities to **learn**, **collaborate**, and **build solutions** that solve real-world problems.<br><br>
+I'm always looking for opportunities to **learn**, **collaborate**, and **build solutions** that solve real-world problems.<br>
 
-I'm also highly enthusiastic about **Open Source** and enjoy learning from the community. I look forward to contributing more to **Open-Source Projects** and collaborating with developers across different ecosystems.<br><br>
+I'm also highly enthusiastic about **Open Source** and enjoy learning from the community. I look forward to contributing more to **Open-Source Projects** and collaborating with developers across different ecosystems.<br>
 
 ## 💻 Tech Skills:
 **Languages:** C, C++, Golang, Python, Dart, SQL, Groovy, HTML, YAML<br>
