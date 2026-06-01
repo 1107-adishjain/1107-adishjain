@@ -18,7 +18,3 @@ Hi, I'm Adish Jain 👋<br><br>I'm a final-year CSE student at IIIT Bhopal with 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=1107-adishjain&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=1107-adishjain&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
