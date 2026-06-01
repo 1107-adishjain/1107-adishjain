@@ -22,7 +22,7 @@ I'm also highly enthusiastic about **Open Source** and enjoy learning from the c
 **Backend Development**, **DevOps & Cloud Technologies**, **Docker**, **Kubernetes**, **AWS**, **Linux**, **eBPF**, **LSMs**, **Databases**, **CI/CD Pipelines**, **Open Source**, **Competitive Programming**, and **Flutter Development**.<br>
 
 ## 🏆 Coding Profiles:
-**CodeChef:** 1650+ (**3💫**)<br>
+**CodeChef:** 1650+ (**3⭐**)<br>
 **LeetCode:** 1900+ (**Knight**)<br>
 
 ## 🌐 Socials:
