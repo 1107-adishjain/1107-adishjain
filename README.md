@@ -1,13 +1,29 @@
 # 💫 About Me:
-Hi, I'm Adish Jain 👋<br><br>I'm a final-year CSE student at IIIT Bhopal with an interest in software development, backend systems, DevOps, cloud-native technologies, and low-level security.<br><br>I enjoy building projects from scratch, experimenting with new technologies, and understanding how applications are developed, deployed, and maintained in real-world environments. Over time, I've worked with technologies across backend development, cloud platforms, DevOps tools, databases, containerization, Linux and kernel security concepts such as eBPF and LSMs, and Flutter development.<br><br>I'm always looking for opportunities to learn, collaborate, and build things that solve real problems.<br><br>I'm also highly enthusiastic about open source and enjoy learning from the community. I look forward to contributing more to open-source projects and collaborating with developers across different ecosystems.
+Hi, I'm **Adish Jain** 👋<br><br>
 
-Tech skills: <br>
-Languages: C, C++, Golang, Python, Dart, SQL, Groovy, HTML, YAML<br>
-DevOps & Infra: Docker, Kubernetes, Terraform, Ansible, Jenkins, Nginx, Git, GitHub Actions<br>
-Cloud & Databases: AWS, PostgreSQL, MySQL, Firebase, Cloud Firestore, Linux, Unix, Redis, MongoDB<br>
-Monitoring: Prometheus, Grafana, Loki<br>
-Technologies: Flutter SDK, REST API, WebSocket <br>
-Coding Profiles: CodeChef 1650+(3💫), LeetCode-1900+(Knight)<br><br>
+I'm a **Final-Year CSE Student** at **IIIT Bhopal** with an interest in **Software Development**, **Backend Systems**, **DevOps**, **Cloud-Native Technologies**, and **Low-Level Security**.<br><br>
+
+I enjoy building projects from scratch, experimenting with new technologies, and understanding how applications are developed, deployed, and maintained in real-world environments. Over time, I've worked with technologies across **Backend Development**, **Cloud Platforms**, **DevOps Tools**, **Databases**, **Containerization**, **Linux**, and kernel security concepts such as **eBPF** and **LSMs**, along with **Flutter Development**.<br><br>
+
+I'm always looking for opportunities to **learn**, **collaborate**, and **build solutions** that solve real-world problems.<br><br>
+
+I'm also highly enthusiastic about **Open Source** and enjoy learning from the community. I look forward to contributing more to **Open-Source Projects** and collaborating with developers across different ecosystems.<br><br>
+
+## 💻 Tech Skills:
+**Languages:** C, C++, Golang, Python, Dart, SQL, Groovy, HTML, YAML<br>
+**Backend:** Node.js, Express.js, REST APIs, WebSockets<br>
+**DevOps & Infrastructure:** Docker, Kubernetes, Terraform, Ansible, Jenkins, Nginx, Git, GitHub Actions<br>
+**Cloud & Databases:** AWS, PostgreSQL, MySQL, MongoDB, Redis, Firebase, Cloud Firestore<br>
+**Monitoring & Observability:** Prometheus, Grafana, Loki<br>
+**Linux & Security:** Linux, Unix, eBPF, LSMs<br>
+**Mobile Development:** Flutter SDK<br><br>
+
+## 💬 Ask Me About:
+**Backend Development**, **DevOps & Cloud Technologies**, **Docker**, **Kubernetes**, **AWS**, **Linux**, **eBPF**, **LSMs**, **Databases**, **CI/CD Pipelines**, **Open Source**, **Competitive Programming**, and **Flutter Development**.<br><br>
+
+## 🏆 Coding Profiles:
+**CodeChef:** 1650+ (**3💫**)<br>
+**LeetCode:** 1900+ (**Knight**)<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adish-jain-745b26280/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adishjain1107@gmail.com) 
