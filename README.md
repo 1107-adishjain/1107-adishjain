@@ -11,19 +11,19 @@ I'm also highly enthusiastic about **Open Source** and enjoy learning from the c
 
 ## 💻 Tech Skills:
 **Languages:** C, C++, Golang, Python, Dart, SQL, Groovy, HTML, YAML<br>
-**Backend:** Node.js, Express.js, REST APIs, WebSockets<br>
+**Backend:** Go(Gin), Node.js, Express.js, REST APIs, WebSockets<br>
 **DevOps & Infrastructure:** Docker, Kubernetes, Terraform, Ansible, Jenkins, Nginx, Git, GitHub Actions<br>
 **Cloud & Databases:** AWS, PostgreSQL, MySQL, MongoDB, Redis, Firebase, Cloud Firestore<br>
 **Monitoring & Observability:** Prometheus, Grafana, Loki<br>
 **Linux & Security:** Linux, Unix, eBPF, LSMs<br>
-**Mobile Development:** Flutter SDK<br><br>
+**Mobile Development:** Flutter SDK<br>
 
 ## 💬 Ask Me About:
-**Backend Development**, **DevOps & Cloud Technologies**, **Docker**, **Kubernetes**, **AWS**, **Linux**, **eBPF**, **LSMs**, **Databases**, **CI/CD Pipelines**, **Open Source**, **Competitive Programming**, and **Flutter Development**.<br><br>
+**Backend Development**, **DevOps & Cloud Technologies**, **Docker**, **Kubernetes**, **AWS**, **Linux**, **eBPF**, **LSMs**, **Databases**, **CI/CD Pipelines**, **Open Source**, **Competitive Programming**, and **Flutter Development**.<br>
 
 ## 🏆 Coding Profiles:
 **CodeChef:** 1650+ (**3💫**)<br>
-**LeetCode:** 1900+ (**Knight**)<br><br>
+**LeetCode:** 1900+ (**Knight**)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adish-jain-745b26280/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adishjain1107@gmail.com) 
